@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Hazeera
 
-<!--
-**maisarahazeera-ux/maisarahazeera-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Big Data student at UiTM Shah Alam who likes turning messy data into clean, easy-to-use dashboards and interfaces. I'm working towards a role in **web development** or **UI/UX design**.
 
-Here are some ideas to get you started:
+Johor Bahru, Malaysia · Intern at PPD Johor Bahru (Sektor Pengurusan Sekolah)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I've built
+
+| Project | What it does | Stack |
+|---|---|---|
+| [e-Operasi Dashboard](https://github.com/maisarahazeera-ux/eoperasi-dashboard) | Teacher data dashboard for PPD Johor Bahru, covering demographics, grades, subjects and retirement planning | React, TypeScript, .NET, PostgreSQL, Python |
+| [IDME Dashboard](https://github.com/maisarahazeera-ux/idme-dashboard) | Tahun 1 2027 application tracker that flags schools over capacity and updates live from Google Sheets | JavaScript, HTML, CSS |
+| [MAPTD](https://github.com/maisarahazeera-ux/MAPTD) | Final-year project: car popularity, running costs and affordability in Malaysia | Power BI, Python, Flask, SQLite |
+| [Portfolio](https://github.com/maisarahazeera-ux/Portfolio-Hazeera-Maisara) | My personal portfolio site | HTML, CSS, JavaScript |
+
+### Tools I use
+
+**Web & design:** HTML · CSS · JavaScript · React · TypeScript · Figma  
+**Data:** Python (pandas, Selenium, BeautifulSoup) · SQL · PostgreSQL · SQLite · Power BI (DAX, Power Query)  
+**Backend:** Flask · .NET (C#)
+
+### Find me
+
+[Portfolio](https://maisarahazeera-ux.github.io/Portfolio-Hazeera-Maisara/) · maisarahazeera@gmail.com
