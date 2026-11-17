@@ -1,4 +1,4 @@
-## Hi, I'm Hazeera
+## Hi, I'm Hazeera Maisara
 
 Big Data student at UiTM Shah Alam who likes turning messy data into clean, easy-to-use dashboards and interfaces. I'm working towards a role in **web development** or **UI/UX design**.
 
